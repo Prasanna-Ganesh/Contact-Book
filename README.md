@@ -36,9 +36,14 @@ from wtforms import StringField,SubmitField
 ## Versions 
 **Note : This is developed in the 
 ```
-Python 3.8.10
-Flask 2.2.2
-Werkzeug 2.2.2
+Flask	2.2.2
+Flask-SQLAlchemy	3.0.2
+Flask-WTF	1.0.1
+Jinja2	3.1.2
+SQLAlchemy	1.4.45
+WTForms	3.0.1
+Werkzeug	2.2.2
+email-validator	1.3.0
 ```
 
 ## Contact me
