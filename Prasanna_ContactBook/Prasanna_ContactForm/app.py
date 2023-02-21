@@ -6,7 +6,6 @@ from Prasanna_ContactForm.models import Contact
 import os
 
 @app.route("/")
-@app.route("/index")
 def index():
     return render_template("index.html")
 
